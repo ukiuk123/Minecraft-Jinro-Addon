@@ -1,2 +1,5 @@
 # Minecraft-Jinro-Addon
-for BE
+for BE version
+
+Download Map
+https://minecraft-mcworld.com/47892/
