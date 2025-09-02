@@ -1,0 +1,14 @@
+{
+    "format_version": "1.21.0",
+    "minecraft:item": {
+        "description": {
+            "identifier": "wj:sensor"
+        },
+
+        "components": {
+            "minecraft:icon": "sensor",
+            "minecraft:hand_equipped":false,
+            "minecraft:max_stack_size":64
+        }
+    }
+}

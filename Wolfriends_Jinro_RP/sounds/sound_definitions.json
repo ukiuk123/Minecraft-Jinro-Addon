@@ -1,0 +1,77 @@
+{
+    "format_version": "1.14.0",
+    "sound_definitions": {
+        "sound:bgm": {
+            "category": "music",
+            "max_distance": 100,
+            "sounds": [
+                {
+                    "load_on_low_memory": true,
+                    "name":"sounds/music/bgm",
+                    "stream":true,
+                    "volume": 0.1
+                }
+            ]
+        },
+        "sound:youko": {
+            "category": "music",
+            "max_distance": 100,
+            "sounds": [
+                {
+                    "load_on_low_memory": true,
+                    "name":"sounds/music/youko",
+                    "stream":true,
+                    "volume": 0.5
+                }
+            ]
+        },
+        "sound:hikiwake": {
+            "category": "music",
+            "max_distance": 100,
+            "sounds": [
+                {
+                    "load_on_low_memory": true,
+                    "name":"sounds/music/hikiwake",
+                    "stream":true,
+                    "volume": 0.5
+                }
+            ]
+        },
+        "sound:simin": {
+            "category": "music",
+            "max_distance": 100,
+            "sounds": [
+                {
+                    "load_on_low_memory": true,
+                    "name":"sounds/music/simin",
+                    "stream":true,
+                    "volume": 0.5
+                }
+            ]
+        },
+        "sound:zombie": {
+            "category": "music",
+            "max_distance": 100,
+            "sounds": [
+                {
+                    "load_on_low_memory": true,
+                    "name":"sounds/music/zombie",
+                    "stream":true,
+                    "volume": 0.5
+                }
+            ]
+        },
+        "sound:zinrou": {
+            "category": "music",
+            "max_distance": 100,
+            "sounds": [
+                {
+                    "load_on_low_memory": true,
+                    "name":"sounds/music/zinrou",
+                    "stream":true,
+                    "volume": 0.5
+                }
+            ]
+        }
+    }
+}

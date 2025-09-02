@@ -1,0 +1,15 @@
+{
+    "format_version": "1.21.10",
+    "minecraft:item": {
+        "description": {
+            "identifier": "wj:ookami"
+        },
+
+        "components": {
+            "minecraft:icon": "ookami",
+            "minecraft:hand_equipped":true,
+            "minecraft:max_stack_size":64,
+            "minecraft:custom_components": ["wj:ookami"]
+        }
+    }
+}

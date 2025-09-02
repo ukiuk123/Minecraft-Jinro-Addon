@@ -1,0 +1,72 @@
+{
+  "resource_pack_name": "wj_items",
+  "texture_data": {
+    "touketu": {
+      "textures": "textures/additem/items/touketu"
+    },
+    "kusuri": {
+      "textures": "textures/additem/items/kusuri"
+    },
+    "zombie": {
+      "textures": "textures/additem/items/zombie"
+    },
+    "usagi": {
+      "textures": "textures/additem/items/usagi"
+    },
+    "uranai": {
+      "textures": "textures/additem/items/uranai"
+    },
+    "kaitou": {
+      "textures": "textures/additem/items/kaitou"
+    },
+    "uranai_me": {
+      "textures": "textures/additem/items/uranai_me"
+    },
+    "sinzitu": {
+      "textures": "textures/additem/items/sinzitu"
+    },
+    "shinryu_ken": {
+      "textures": "textures/additem/items/shinryu_ken"
+    },
+    "sensor": {
+      "textures": "textures/additem/items/sensor"
+    },
+    "reibai": {
+      "textures": "textures/additem/items/reibai"
+    },
+    "kinomi": {
+      "textures": "textures/additem/items/kinomi"
+    },
+    "kago": {
+      "textures": "textures/additem/items/kago"
+    },
+    "hakka": {
+      "textures": "textures/additem/items/hakka"
+    },
+    "ankoku": {
+      "textures": "textures/additem/items/ankoku"
+    },
+    "kariudo": {
+      "textures": "textures/additem/items/kariudo"
+    },
+    "receiver": {
+      "textures": "textures/additem/items/receiver"
+    },
+    "himo": {
+      "textures": "textures/additem/items/himo"
+    },
+    "gisou": {
+      "textures": "textures/additem/items/gisou"
+    },
+    "ookami": {
+      "textures": "textures/additem/items/ookami"
+    },
+    "nazo": {
+      "textures": "textures/additem/items/nazo"
+    },
+    "hayabusa": {
+      "textures": "textures/additem/items/hayabusa"
+    }
+  },
+  "texture_name": "atlas.items"
+}

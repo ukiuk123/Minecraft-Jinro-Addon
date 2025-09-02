@@ -1,0 +1,18 @@
+{
+  "format_version":2,
+  "header":{
+    "name":"Wolfrineds_Jinro_Resource_pack",
+    "description":"",
+    "uuid":"cbabc125-f1c2-4bb8-b20b-566092cff33f",
+    "version":[ 1, 0, 15 ],
+    "min_engine_version": [ 1, 21, 70 ]
+  },
+  "modules":[
+    {
+      "description":"",
+      "type":"resources",
+      "uuid":"a69cdbf1-bb4c-4927-9339-033d5f171c8c",
+      "version":[ 1, 0, 15 ]
+    }
+  ]
+}

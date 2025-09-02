@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Wolfrineds_Jinro_beta_Behavior_pack",
+		"description": "",
+		"uuid": "e7bedefc-f3d4-46d9-847e-fd4d4816434b",
+		"version": [ 1, 0, 16 ],
+		"min_engine_version": [ 1, 21, 70 ]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "c9ffdb8f-c220-4b90-a54e-ad79a1db36e9",
+			"version": [ 1, 0, 16 ]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "6cca34a1-d087-4c2c-b105-eb28263708fd",
+			"entry": "scripts/main.js",
+			"version": [ 1, 0, 16 ]
+		}
+	],
+	"dependencies": [
+		{
+            "module_name": "@minecraft/server",
+            "version": "3.0.0-alpha"
+        }
+	]
+}
